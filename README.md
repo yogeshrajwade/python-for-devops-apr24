@@ -12,3 +12,6 @@ Build out python project scoffld:
 * Dockerfile
 * commond-line-tool
 * microservices
+
+1. Create virtualenv `virtualenv ~/.venv`
+2. edit `~/.bashrc`
